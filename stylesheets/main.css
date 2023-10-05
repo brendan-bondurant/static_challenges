@@ -1,0 +1,82 @@
+body {
+  background-color:white
+}
+
+header {
+  background-color: rgb(166, 2, 2);
+  height: 75px;
+  padding: 0 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header h1 {
+  font-size: 25;
+  color: white;
+  float: left;
+  margin-top: 25px ;
+  margin-bottom: 25px ;
+  font-weight: bold;
+}
+
+header nav {
+  font: size 15px;
+  color: white;
+  float: right;
+  text-decoration: underline;
+  margin-top: 30px ;
+  margin-bottom: 30px ;
+  font-weight: bold;
+}
+
+div {
+  height: 55px;
+  background-color: rgb(63, 64, 65);
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div nav ul li {
+  float: right;
+  font-size: 15;
+  margin-top: 15;
+  margin-bottom: 15;
+  margin-left: 15;
+  color: white;
+  text-decoration: underline;
+}
+
+section {
+  float: left;
+  width: 70%;
+
+}
+
+section img {
+  display: inline-block;
+  padding: 25;
+  margin: 20;
+}
+
+section h2 {
+  font-size: 20;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  padding-left: 45;
+  padding-bottom: 30;
+}
+
+section p {
+  font-size: 18;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-bottom: 10;
+  padding-left: 45;
+}
+
+aside {
+  float: right;
+  width: 20%;
+  margin: 10;
+
+}
+
+
